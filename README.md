@@ -17,3 +17,9 @@
 [clojure-logo.red](clojure-logo.red)
 
 ![clojure-logo](clojure-logo.png)
+
+## WZ Logo
+
+[wz-logo.red](wz-logo.red)
+
+![wz-logo](wz-logo.png)
