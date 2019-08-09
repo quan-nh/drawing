@@ -1,0 +1,45 @@
+b9ac4e4|c37d4fc 1d20353|HEAD -> dev, origin/dev
+1d20353|e8b0556|origin/initial-config
+c37d4fc|bbc6e25 db90140|
+e8b0556|ad8bf4e|
+bbc6e25|06689bf dbb4d3c|
+06689bf|947b867 584bd51|
+584bd51|947b867|
+dbb4d3c|ad8bf4e|
+ad8bf4e|947b867|
+947b867|2481939 dad99e7|
+dad99e7|2481939|
+2481939|2df0fe1 9ee0123|
+9ee0123|e4bff64|
+e4bff64|2df0fe1|
+db90140|c219430|origin/doc, doc
+c219430|388e4b9|
+388e4b9|57f123b|
+57f123b|ab6a39b|
+ab6a39b|2df0fe1|
+2df0fe1|a0345f2|origin/test_wz, origin/dev_wz
+a0345f2|ffd26c0|
+ffd26c0|6d3400c|
+6d3400c|822980a|
+822980a|44fae2d|
+44fae2d|e155b7c|
+9199eaf|32e6e1c|origin/feature/TBOM-14-initial-authz, feature/TBOM-14-initial-authz
+32e6e1c|e155b7c|
+e155b7c|dc9cb97|
+dc9cb97|524d6f0|
+524d6f0|24ab034|
+24ab034|aa5ae53 bc6b343|
+aa5ae53|e09ca80|
+bc6b343|19fedb0|
+19fedb0|0a01433|
+0a01433|e09ca80|
+e09ca80|e5ac152|
+e5ac152|99677ec|
+99677ec|6bef33c|
+6bef33c|9719711|
+9719711|1718956|
+1718956|71bb98e|
+464f4d1|b41e0bd|origin/feat_jenkins
+71bb98e|62ead55 f9e18be|
+f9e18be|efcbbdc|origin/feat-jenkins-ci
+62ead55|6ce2a63 efcbbdc|
