@@ -1,25 +1,27 @@
 # Drawing
 
-## Red Logo
+## Logo
 
-[red-logo.red](red-logo.red)
+### Red Logo
 
-![red-logo](red-logo.png)
+[red-logo.red](logo/red-logo.red)
 
-## Twitter Logo
+![red-logo](logo/red-logo.png)
 
-[twitter-logo.red](twitter-logo.red)
+### Twitter Logo
 
-![twitter-logo](twitter-logo.png)
+[twitter-logo.red](logo/twitter-logo.red)
 
-## Clojure Logo
+![twitter-logo](logo/twitter-logo.png)
 
-[clojure-logo.red](clojure-logo.red)
+### Clojure Logo
 
-![clojure-logo](clojure-logo.png)
+[clojure-logo.red](logo/clojure-logo.red)
 
-## WZ Logo
+![clojure-logo](logo/clojure-logo.png)
 
-[wz-logo.red](wz-logo.red)
+### WZ Logo
 
-![wz-logo](wz-logo.png)
+[wz-logo.red](logo/wz-logo.red)
+
+![wz-logo](logo/wz-logo.png)
